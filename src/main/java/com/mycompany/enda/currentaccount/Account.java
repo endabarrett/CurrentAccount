@@ -21,4 +21,8 @@ public class Account {
         this.balance = bal;
     }
     
+    public String getName()
+    {
+        return this.name;
+    }
 }
