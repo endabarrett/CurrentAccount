@@ -13,6 +13,7 @@ after_success:
    - mvn test
    - mvn package
 
+archive: true
 notifications:
   email:
       recipients:
