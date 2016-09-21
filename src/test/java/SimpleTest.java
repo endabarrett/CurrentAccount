@@ -14,7 +14,7 @@ import org.junit.Test;
 public class SimpleTest {
     
     @Test
-    public void evaluatesExpression() {
+    public void evaluatesGetName() {
     Account acc = new Account("Enda", 100);
     assertEquals(acc.getName(), "Enda");
   } 

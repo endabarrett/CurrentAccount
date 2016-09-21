@@ -10,7 +10,8 @@ package com.mycompany.enda.currentaccount;
  *
  * @author 0102835S
  */
-public class Account {
+public class Account 
+{
     
     String name;
     int balance;
