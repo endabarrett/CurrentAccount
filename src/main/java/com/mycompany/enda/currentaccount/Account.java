@@ -11,8 +11,7 @@ package com.mycompany.enda.currentaccount;
  * @author 0102835S
  */
 public class Account 
-{
-    
+{    
     String name;
     int balance;
     
@@ -30,5 +29,10 @@ public class Account
     public void setName(String name)
     {
         this.name = name;
+    }
+    
+    public void setBalance(int balance)
+    {
+        this.balance = balance;
     }
 }
