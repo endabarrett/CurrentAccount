@@ -14,11 +14,13 @@ public class Account
 {    
     String name;
     int balance;
+    String address;
     
     public Account(String name, int bal)
     {
         this.name = name;
         this.balance = bal;
+        this.address = "Galway";
     }
     
     public String getName()
