@@ -20,7 +20,7 @@ public class Account
     {
         this.name = name;
         this.balance = bal;
-        this.address = "Galway";
+        this.address = "Mayo";
     }
     
     public String getName()
