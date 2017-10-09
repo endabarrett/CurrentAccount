@@ -5,7 +5,7 @@
  */
 package com.mycompany.enda.currentaccount;
 
-import ie.nuigalway.ct417project.CT417Class;
+//import ie.nuigalway.ct417project.CT417Class;
 
 
 /**
