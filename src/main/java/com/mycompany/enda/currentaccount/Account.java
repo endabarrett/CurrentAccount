@@ -20,7 +20,7 @@ public class Account
     
     public Account(String name, int bal)
     {
-        CT417Class ct417 = new CT417Class();
+        //CT417Class ct417 = new CT417Class();
         this.name = name;
         this.balance = bal;
         this.address = "Mayo";
