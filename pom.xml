@@ -19,6 +19,11 @@
       <name>Maven Repository Switchboard</name>
       <url>http://repo1.maven.org/maven2</url>
     </repository>
+        <repository>
+        <id>dropbox-mvn-repo</id>
+        <name>My Dropbox Repository</name>
+        <url>https://www.dropbox.com/sh/plmcaflsth9uq7g/AABH2-QC9s6Nc88dux2wfBHYa?dl=0</url>
+    </repository>
   </repositories>
     <dependencies><!-- https://mvnrepository.com/artifact/joda-time/joda-time -->
 <dependency>
