@@ -5,6 +5,8 @@
  */
 package com.mycompany.enda.currentaccount;
 
+import ie.nuigalway.ct417project.CT417Class;
+
 
 /**
  *
@@ -18,6 +20,7 @@ public class Account
     
     public Account(String name, int bal)
     {
+        CT417Class ct417 = new CT417Class();
         this.name = name;
         this.balance = bal;
         this.address = "Mayo";
