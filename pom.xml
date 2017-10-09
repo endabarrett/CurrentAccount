@@ -24,10 +24,10 @@
 </dependency>
 <dependency>
 	    <groupId>com.github.endabarrett</groupId>
-	    <artifactId>CT417Git</artifactId>
+	    <artifactId>ct417Project</artifactId>
 	    <version>-SNAPSHOT</version>
 	</dependency>
- <dependency>
+<dependency>
     <groupId>junit</groupId>
     <artifactId>junit</artifactId>
     <version>4.12</version>
